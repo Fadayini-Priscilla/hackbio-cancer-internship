@@ -9,7 +9,7 @@ Breast cancer is characterized by overexpression of specific receptors, estrogen
 
 Natural products bridge this gap because of its unmatched chemical diversity with structural complexity and biological potency. This study seeks to identify a more selective compound (ligand) against breast cancer from _Citrus limetta._ 
 
-METHODOLOGY 
+## METHODOLOGY 
 
 3D structures of proteins; BCL-2, BCL-W, MCL-1, ERɑ, and ligands from natural products; hecogenin acetate, hesperidin, podototarin, theaflavin were retrieved from online sources, and then converted for docking analysis. Molecular docking analysis of ligands was done using AutoDock Vina 1.1.2, protein-ligand complexes were visualized using Discovery Studio Visualizer 20.1. Molecular dynamics simulation of hesperidin-ERɑ and hesperidin-MCL-1 complexes was done using GROMACS 2018, to prove stability and compactness of structure.
 
@@ -20,7 +20,7 @@ Hesperidin was extracted from albedo of _Citrus limetta_ and analyzed using anal
 
 Molecular docking results showed hesperidin strong binding affinity to BCL-W, MCL-1, and ERα proteins, while theaflavin bound to BCL-2. The stability of the protein-ligand complexes is attributed to hydrogen bonds, pi interactions, and alkyl interactions. The hesperidin-MCL-1 complex is the most stable, with lower RMSD value, less fluctuation, higher compactness, lower Rg and solvent-accessible surface area (SASA) as confirmed by molecular dynamics simulations indicating stronger protein-ligand interactions. Hesperidin cytotoxicity assay shows increased effectiveness when encapsulated in nanoliposomes further supporting its potential as an anticancer agent, particularly against breast cancer cells.
 
-CONCLUSION 
+## CONCLUSION 
 
 Natural products can be used for therapeutic and nutritional purposes of humans because they have no side effects and are of natural origin. Hesperidin's strong binding power to MCL-1 receptors and high stability make it a promising target for drug or food additive treatment as shown from the results of this study. In vitro studies demonstrated its ability to kill MDA-MB-231 breast cancer cell lines without significantly affecting MCF10A normal cell lines. Therefore, natural products offer a promising alternative to synthetic and chemical drugs.
 
