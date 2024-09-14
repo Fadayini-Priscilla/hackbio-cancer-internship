@@ -1,5 +1,7 @@
 # **HOMOLOGY MODELING USING SWISS-MODEL AND ALPHAFOLD MODELING OF THE 4GJY PROTEIN AND VISUALIZATION USING PYMOL**
 
+Authors (@slack): Bryan Muli (@brayo), Akinkunmi Bamigboye (@akinn), Abeeha Raza (@Abeeha97), Priscilla Fadayini (@Priscillaaa), Samuel Badekale (@SammyB)
+
 
 ## **INTRODUCTION** 
 
