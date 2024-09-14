@@ -52,25 +52,31 @@ The AlphaFold model is in the Apo conformation because it does not exhibit any l
 
 **Figure 1: PDB structure**
 
+
 ![SWISS-MODEL structure Image](BB0C38DF-CB59-483F-B4CE-69AF1249668E.jpeg)
 
 **Figure 2: SWISS-MODEL structure**
 
+
 ![AlphaFold structure Image](5F161E78-A92B-4DE1-A9A4-DE537937B12A.jpeg)
 
 **Figure 3: AlphaFold structure**
- 
+
+ 
 ![PDB Ligand Image](72566644-7E3E-4EEC-88C0-B7D46FEB3727.png)
 
 **Figure 4: PDB Ligand**
+
 
 ![PDB Active site with water Image](16309828-37DC-4794-BEC2-8B420099342B.png)
 
 **Figure 5: PDB Active site with water**
 
+
 ![SWISS-MODEL Active site with water Image](DF5AF719-D03E-41C7-896B-18AC67843BCE.png)
 
 **Figure 6: SWISS-MODEL Active site with water**
+
 
 ![PDB Active site Image](1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
 
