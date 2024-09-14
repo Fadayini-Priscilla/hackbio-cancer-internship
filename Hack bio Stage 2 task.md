@@ -29,7 +29,7 @@ The protein structures were aligned and the RMSD values calculated as follows:
 
 3. AlphaFold model and SWISS-MODEL- 0.244
 
-AlphaFold slightly outperforms the SWISS-MODEL in terms of closeness to the experimental PDB structure, with a lower RMSD (0.253 compared to 0.295). The AlphaFold and SWISS-MODELS are the most similar to each other, as shown by the lowest RMSD (0.244), suggesting that both models are computationally robust with minimal deviations between them. Both the SWISS-MODEL and AlphaFold model are highly similar to the PDB model, which is the experimentally resolved structure.
+AlphaFold slightly outperforms the SWISS-MODEL in terms of closeness to the experimental PDB structure, with a lower RMSD (0.253 compared to 0.295). The AlphaFold and SWISS-MODEL are the most similar to each other, as shown by the lowest RMSD (0.244), suggesting that both models are computationally robust with minimal deviations between them. Both the SWISS-MODEL and AlphaFold model are highly similar to the PDB model, which is the experimentally resolved structure.
 
 - LIGAND AND ACTIVE SITE COMPARISON
 
@@ -37,7 +37,7 @@ The PDB structure contains the inhibitor OGA (N-Oxalylglycine) and CO bound in t
 
 - ACTIVE SITE AND MUTATION SITES
 
-The PDB contains 14 residues on the active site while the Swiss model had 21 residues on the active site which were both visualized and any structural deviations observed. From the PDB there were a total of 9 residues that are known to undergo mutagenesis. These were visualized and compared on all the models.
+The PDB contains 14 residues on the active site while the SWISS-MODEL had 21 residues on the active site which were both visualized and any structural deviations observed. From the PDB there were a total of 9 residues that are known to undergo mutagenesis. These were visualized and compared on all the models.
 
 - CONFORMATIONS 
 
@@ -56,8 +56,6 @@ The AlphaFold model is in the Apo conformation because it does not exhibit any l
 
 ![AlphaFold structure Image](5F161E78-A92B-4DE1-A9A4-DE537937B12A.jpeg)
 **Figure 3: AlphaFold structure**
-
-\
  
 ![PDB Ligand Image](72566644-7E3E-4EEC-88C0-B7D46FEB3727.png)
 **Figure 4: PDB Ligand**
