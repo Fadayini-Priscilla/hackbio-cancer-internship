@@ -74,10 +74,6 @@ The AlphaFold model is in the Apo conformation because it does not exhibit any l
 
 This report examined the structure and function of JMJD5, as represented by the 4GJY protein, focusing on its role in cancer research via the HIF pathway. Using homology modeling (SWISS-MODEL) and AlphaFold, we compared their models to the PDB structure. RMSD values showed high similarity, especially for AlphaFold, to the PDB structure. We also analyzed active sites and ligand binding, noting that the PDB structure had an inhibitor, the SWISS-MODEL had a functional ligand, and AlphaFold predicted an unbound state. These insights into JMJD5's conformations provide valuable information for its potential as a cancer drug target.
 
-\
-\
-
-
 
 ## **REFRENCES**
 
