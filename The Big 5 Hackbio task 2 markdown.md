@@ -18,7 +18,7 @@ The three BRCA1 protein conformation structures we chose are:
 
 - 21NG: Representing the antagonist conformation, with a mutation at the BRCT domain.
 
-![1JNX PDB structure Image](F53411AD-F3F4-4DC1-B52B-DA2A30D7B800)
+![1JNX PDB structure Image](F53411AD-F3F4-4DC1-B52B-DA2A30D7B800.jpeg)
 
 **Figure 1: 1JNX PDB structure**
 
