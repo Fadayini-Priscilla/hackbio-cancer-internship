@@ -164,21 +164,21 @@ From **_Table 2_**, the SWISS model generates the agonist conformation as it sho
 
 Hamel, P. J. (2007). BRCA1 and BRCA2: No Longer the Only Troublesome Genes Out There. _Health Central_. Retrieved 2010-07-02.
 
-Duncan, J. A., Reeves, J. R., & Cooke, T. G. (1998). [BRCA1 and BRCA2 proteins: roles in health and disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395646). _Molecular Pathology_. 51(5), 237–47. [doi](https://en.m.wikipedia.org/wiki/Doi_\(identifier\)):[10.1136/mp.51.5.237](https://doi.org/10.1136%2Fmp.51.5.237).
+Duncan, J. A., Reeves, J. R., & Cooke, T. G. (1998). BRCA1 and BRCA2 proteins: roles in health and disease. _Molecular Pathology_. 51(5), 237–47. [doi]:[10.1136/mp.51.5.237](https://doi.org/10.1136%2Fmp.51.5.237).
 
-Yoshida, K., & Miki, Y. (2004). [Role of BRCA1 and BRCA2 as regulators of DNA repair, transcription, and cell cycle in response to DNA damage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11159131). _Cancer Science_. 95(11), 866–71. [doi](https://en.m.wikipedia.org/wiki/Doi_\(identifier\)):[10.1111/j.1349-7006.2004.tb02195.](https://doi.org/10.1111%2Fj.1349-7006.2004.tb02195.x)
+Yoshida, K., & Miki, Y. (2004). Role of BRCA1 and BRCA2 as regulators of DNA repair, transcription, and cell cycle in response to DNA damage. _Cancer Science_. 95(11), 866–71. [doi]:[10.1111/j.1349-7006.2004.tb02195.](https://doi.org/10.1111%2Fj.1349-7006.2004.tb02195.x)
 
-Check, W. (2006). [BRCA: What we know now](http://www.cap.org/apps/cap.portal?_nfpb=true\&cntvwrPtlt_actionOverride=%2Fportlets%2FcontentViewer%2Fshow&_windowLabel=cntvwrPtlt\&cntvwrPtlt%7BactionForm.contentReference%7D=cap_today%2Ffeature_stories%2F0906BRCA.html&_state=maximized&_pageLabel=cntvwr). _College of American Pathologists._ Retrieved 2010-08-23.
+Check, W. (2006). BRCA: What we know now. _College of American Pathologists._ Retrieved 2010-08-23.
 
-Friedenson, B. (2007). [The BRCA1/2 pathway prevents hematologic cancers in addition to breast and ovarian cancers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1959234). _BMC Cancer_. 7, 152–162. [doi](https://en.m.wikipedia.org/wiki/Doi_\(identifier\)):[10.1186/1471-2407-7-152](https://doi.org/10.1186%2F1471-2407-7-152)
+Friedenson, B. (2007). The BRCA1/2 pathway prevents hematologic cancers in addition to breast and ovarian cancers. _BMC Cancer_. 7, 152–162. [doi]:[10.1186/1471-2407-7-152](https://doi.org/10.1186%2F1471-2407-7-152)
 
-O'Donovan, P. J., & Livingston, D.M. (2010). [BRCA1 and BRCA2: breast/ovarian cancer susceptibility gene products and participants in DNA double-strand break repair](https://doi.org/10.1093%2Fcarcin%2Fbgq069). _Carcinogenesis_. 31 (6): 961–7. [doi](https://en.m.wikipedia.org/wiki/Doi_\(identifier\)):[10.1093/carcin/bgq069](https://doi.org/10.1093%2Fcarcin%2Fbgq069)
+O'Donovan, P. J., & Livingston, D.M. (2010). BRCA1 and BRCA2: breast/ovarian cancer susceptibility gene products and participants in DNA double-strand break repair. _Carcinogenesis_. 31 (6): 961–7. [doi]:[10.1093/carcin/bgq069](https://doi.org/10.1093%2Fcarcin%2Fbgq069)
 
-Wang, Y., Cortez, D., Yazdi, P., Neff, N., Elledge, S. J., & Qin, J. (2000). [BASC, a super complex of BRCA1-associated proteins involved in the recognition and repair of aberrant DNA structures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC316544). _Genes & Development_. 14 (8): 927–39. [doi](https://en.m.wikipedia.org/wiki/Doi_\(identifier\)):[10.1101/gad.14.8.927](https://doi.org/10.1101%2Fgad.14.8.927)
+Wang, Y., Cortez, D., Yazdi, P., Neff, N., Elledge, S. J., & Qin, J. (2000). BASC, a super complex of BRCA1-associated proteins involved in the recognition and repair of aberrant DNA structures. _Genes & Development_. 14 (8): 927–39. [doi]:[10.1101/gad.14.8.927](https://doi.org/10.1101%2Fgad.14.8.927)
 
-Starita, L. M., Parvin, J. D. (2003). The multiple nuclear functions of BRCA1: transcription, ubiquitination and DNA repair"m. _Current Opinion in Cell Biology_. 15 (3): 345–350. [doi](https://en.m.wikipedia.org/wiki/Doi_\(identifier\)):[10.1016/S0955-0674(03)00042-5](https://doi.org/10.1016%2FS0955-0674%2803%2900042-5).
+Starita, L. M., Parvin, J. D. (2003). The multiple nuclear functions of BRCA1: transcription, ubiquitination and DNA repair"m. _Current Opinion in Cell Biology_. 15 (3): 345–350. [doi]:[10.1016/S0955-0674(03)00042-5](https://doi.org/10.1016%2FS0955-0674%2803%2900042-5).
 
-[Clark](https://pubmed.ncbi.nlm.nih.gov/?term=Clark%20SL%5BAuthor%5D),  [S. L., Rodriguez](https://pubmed.ncbi.nlm.nih.gov/?term=Clark%20SL%5BAuthor%5D), [A. M., Snyder](https://pubmed.ncbi.nlm.nih.gov/?term=Rodriguez%20AM%5BAuthor%5D), [R. R.](https://pubmed.ncbi.nlm.nih.gov/?term=Snyder%20RR%5BAuthor%5D), [Hankins](https://pubmed.ncbi.nlm.nih.gov/?term=Hankins%20GD%5BAuthor%5D), [ D.V.,  ](https://pubmed.ncbi.nlm.nih.gov/?term=Hankins%20GD%5BAuthor%5D)& [Boehning](https://pubmed.ncbi.nlm.nih.gov/?term=Boehning%20D%5BAuthor%5D), D. (2012). Structure-Function of the Tumour Suppressor BRCA1. _Computational and Structural Biotechnology Journal_. doi:[10.5936/csbj.201204005](https://doi.org/10.5936%2Fcsbj.201204005)
+Clark,  S. L., Rodriguez, A. M., Snyder, R. R.(https://pubmed.ncbi.nlm.nih.gov/?term=Snyder%20RR%5BAuthor%5D), Hankins, D. V.,  & Boehning, D. (2012). Structure-Function of the Tumour Suppressor BRCA1. _Computational and Structural Biotechnology Journal_. doi:[10.5936/csbj.201204005](https://doi.org/10.5936%2Fcsbj.201204005)
 
 \
 \
