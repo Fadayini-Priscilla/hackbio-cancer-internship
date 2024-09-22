@@ -178,5 +178,5 @@ Wang, Y., Cortez, D., Yazdi, P., Neff, N., Elledge, S. J., & Qin, J. (2000). BAS
 
 Starita, L. M., Parvin, J. D. (2003). The multiple nuclear functions of BRCA1: transcription, ubiquitination and DNA repair"m. _Current Opinion in Cell Biology_. 15 (3): 345–350. [doi]:[10.1016/S0955-0674(03)00042-5](https://doi.org/10.1016%2FS0955-0674%2803%2900042-5).
 
-Clark,  S. L., Rodriguez, A. M., Snyder, R. R.(https://pubmed.ncbi.nlm.nih.gov/?term=Snyder%20RR%5BAuthor%5D), Hankins, D. V.,  & Boehning, D. (2012). Structure-Function of the Tumour Suppressor BRCA1. _Computational and Structural Biotechnology Journal_. doi:[10.5936/csbj.201204005](https://doi.org/10.5936%2Fcsbj.201204005)
+Clark,  S. L., Rodriguez, A. M., Snyder, R. R., Hankins, D. V.,  & Boehning, D. (2012). Structure-Function of the Tumour Suppressor BRCA1. _Computational and Structural Biotechnology Journal_. doi:[10.5936/csbj.201204005](https://doi.org/10.5936%2Fcsbj.201204005)
 
