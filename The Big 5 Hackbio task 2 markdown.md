@@ -6,7 +6,7 @@ Authors (@slack): Bryan Muli (@brayo), Akinkunmi Bamigboye (@akinn), Abeeha Raza
 
 Breast cancer type 1 susceptibility (BRCA1) protein is a protein that in humans is encoded by the BRCA1 human tumour suppressor gene and is responsible for repairing DNA. Every human has two copies of the BRCA1 gene (one copy inherited from each parent) ( Hamel, 2007;  Duncan _et al_., 1998; Yoshida _et al.,_ 2004; Check, 2006)
 
-BRCA1 is normally expressed in the cells of breast and other tissue, where it helps repair damaged DNA, or destroy cells if DNA cannot be repaired. It is involved in the repair of chromosomal damage with an important role in the error-free repair of DNA double-strand breaks. If BRCA1 is damaged by a BRCA mutation, damaged DNA is not repaired properly, and this increases the risk for breast cancer. BRCA1 has been described as "breast cancer susceptibility gene" and "breast cancer susceptibility protein". The predominant allele has a normal, tumour-suppressive function whereas high penetrance mutations in this gene cause a loss of tumour-suppressive function which correlates with an increased risk of breast cancer (Friedenson, 2007; O'Donovan _et al_., 2010) .
+BRCA1 is normally expressed in the cells of breast and other tissue, where it helps repair damaged DNA, or destroy cells if DNA cannot be repaired. It is involved in the repair of chromosomal damage with an important role in the error-free repair of DNA double-strand breaks. If BRCA1 is damaged by a BRCA mutation, damaged DNA is not repaired properly, and this increases the risk for breast cancer. BRCA1 has been described as "breast cancer susceptibility gene" and "breast cancer susceptibility protein". The predominant allele has a normal, tumour-suppressive function whereas high penetrance mutations in this gene cause a loss of tumour-suppressive function which correlates with an increased risk of breast cancer (Friedenson, 2007; O'Donovan _et al_., 2010).
 
 BRCA1 combines with other tumour suppressors, DNA damage sensors and signal transducers to form a large multi-subunit protein complex known as the BRCA1-associated genome surveillance complex (BASC). The BRCA1 protein associates with RNA polymerase II, and through the C-terminal domain, also interacts with histone deacetylase complexes. Thus, this protein plays a role in transcription, and DNA repair of double-strand DNA breaks ubiquitination, transcriptional regulation as well as other functions (Wang _et al_., 2000; Starita _et al.,_ 2003).
 
@@ -18,9 +18,15 @@ The three BRCA1 protein conformation structures we chose are:
 
 - 21NG: Representing the antagonist conformation, with a mutation at the BRCT domain.
 
+![1JNX PDB structure Image](F53411AD-F3F4-4DC1-B52B-DA2A30D7B800)
+
 **Figure 1: 1JNX PDB structure**
 
+![1OQA PDB structure Image](056D07D0-A90D-4A65-BFC4-85E0A32F00F7.jpeg)
+
 **Figure 2: 1OQA PDB structure**
+
+![2ING PDB structure Image](76401E9E-0970-4274-8CE0-419999D7064D.jpeg)
 
 **Figure 3: 2ING PDB structure**
 
@@ -39,7 +45,11 @@ The BRCA1 protein contains the following domains:
 
 These contain: Valine-1654, Serine-1655, Glycine 1656, Leucine-1676, Threonine-1677, Asparagine-1678, Leucine 1679, Threonine 1700, Lysine 1702, Histidine 1805.
 
+![1JNX Ligand and active site Image](5271804A-208B-4565-846F-14A143E2E1C8.jpeg)
+
 **Figure 4: 1JNX Nickel ligand and active site**
+
+![2ING ligand and active site Image](4277066F-F2C7-4FFD-9A10-34CF5144A7A9.jpeg)
 
 **Figure 5: 2ING ligands and active sites**
 
@@ -61,9 +71,15 @@ We chose BRCA1 as our protein and ensured it is a protein present in the protein
 
 Swiss-model (stylized as SWISS-MODEL) is a structural bioinformatics web-server dedicated to homology modelling of 3D protein structures. We performed homology modelling using SWISS MODEL, with the fasta format of protein gotten from RCSB PDB, based on the most accurate template, and downloaded the result in pdb format.
 
+![1JNX SWISS structure Image](3A70986D-3CCF-4C48-85DE-79EDED11BFF0.png)
+
 **Figure 6: 1JNX SWISS model**
 
+![1OQA SWISS structure Image](01886C9D-9F3D-492E-9BFE-DFFD5DC7E508.png)
+
 **Figure 7: 1OQA SWISS model**
+
+![2ING SWISS structure Image](6E951BE2-FF76-44E0-AF00-90F59D31B210.png)
 
 **Figure 8: 2ING SWISS model**
 
@@ -87,15 +103,27 @@ The **contact maps** display predicted residue-residue contacts in the protein s
 
 The **sequence coverage** shows the region with high sequence identity and coverage (the green and blue colours indicating good coverage)
 
+![1JNX AlphaFold structure Image](C004ADD3-1CBF-4D0E-960C-6BFDDC89D361.jpeg)
+
 **Figure 9: 1JNX AlphaFold model**
+
+![1JNX AlphaFold plots Image](1CD6499A-60C0-4339-AD1A-2EA3BF9B3D80.jpeg)
 
 **Figure 10: 1JNX AlphaFold plots**
 
+![1OQA AlphaFold structure Image](E637F850-FDD2-4315-93D0-25E6A299CE80.jpeg)
+
 **Figure 11: 1OQA AlphaFold model**
+
+![1OQA AlphaFold plots Image](128495AF-B97E-4CAB-80B9-20F61474D868.jpeg)
 
 **Figure 12: 1OQA AlphaFold plots**
 
+![2ING AlphaFold structure Image](5E3A57A3-6448-4AF0-B000-E53028006427.jpeg)
+
 **Figure 13: 2ING AlphaFold model** 
+
+![2ING AlphaFold plots Image](3715C142-4E6B-45E3-A9EF-BCA5DF24C283.jpeg)
 
 **Figure 14: 2ING AlphaFold plots**
 
@@ -132,16 +160,27 @@ _align molecule1, molecule2, cycles=0, transform=0_
 | 2ING            ( Antagonist) |                    0.727                    | 0.741                                   |
 
 
+![Alignment 1JNX SWISS and PDB Image](8BAB3B46-274F-4991-A029-0559A11BF1DD.jpeg)
 
 **Figure 15: Alignment of 1JNX SWISS model with its PDB crystal structure**
 
+![Alignment 1OQA SWISS and PDB Image](D74A73FC-FE18-4684-B19E-0465A79A32D1.jpeg)
+
 **Figure 16: Alignment of 1OQA SWISS model with its PDB crystal structure**
+
+![Alignment 2ING SWISS and PDB Image](8A0D2E13-672D-42F7-B10C-EA3133631965.jpeg)
 
 **Figure 17: Alignment of 2ING SWISS model with its PDB crystal structure**
 
+![Alignment 1JNX AlphaFold and PDB Image](7FC60292-99E9-49D3-B683-1370ABE7B22A.jpeg)
+
 **Figure 18: Alignment of 1JNX AlphaFold model with its PDB crystal structure**
 
+![Alignment 1OQA AlphaFold and PDB Image](181CCA36-4AB3-4AC8-ABF7-CD27D696FB78.jpeg)
+
 **Figure 19: Alignment of 1OQA AlphaFold model with its PDB crystal structure**
+
+![Alignment 2ING AlphaFold and PDB Image](88D05DBA-D567-4362-9DF4-92F834F63E10.jpeg)
 
 **Figure 20: Alignment of 2ING AlphaFold model with its PDB crystal structure**
 
