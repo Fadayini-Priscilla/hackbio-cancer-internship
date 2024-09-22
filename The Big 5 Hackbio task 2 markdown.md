@@ -67,8 +67,6 @@ Swiss-model (stylized as SWISS-MODEL) is a structural bioinformatics web-server 
 
 **Figure 8: 2ING SWISS model**
 
-\
-
 
 **Table 1: SWISS model features of BRCA1 conformation**
 
@@ -81,9 +79,9 @@ Swiss-model (stylized as SWISS-MODEL) is a structural bioinformatics web-server 
 
 **AlphaFold Modeling**
 
-AlphaFold is Google DeepMind's contribution to the long-standing problem of protein structure prediction. It predicts the 3D structures of proteins with a high degree of accuracy and is now widely used by researchers. We performed AlphaFold modelling on AlphaFold server with the protein fasta file obtained from the RCSB, and saved the result in zip format.
+AlphaFold is Google DeepMind's contribution to the long-standing protein structure prediction problem. It predicts the 3D structures of proteins with a high degree of accuracy and is now widely used by researchers. We performed AlphaFold modelling on AlphaFold server with the protein fasta file obtained from the RCSB, and saved the result in zip format.
 
-The **predicted IDDT (Distance Difference Test) per position** indicates the confidence of AlphaFold’s predictions for each residue. Higher values (closer to 100) represent more confident predictions, and lower values indicate less confident predictions. The AlphaFold models were confident about the main structure, but showed uncertainty in few flexible regions
+The **predicted IDDT (Distance Difference Test) per position** indicates AlphaFold’s confidence in each residue’s predictions. Higher values (closer to 100) represent more confident predictions, and lower values indicate less confident predictions. The AlphaFold models were confident about the main structure, but showed uncertainty in few flexible regions
 
 The **contact maps** display predicted residue-residue contacts in the protein structure for each rank (1-5).Red areas represent low proximity (no close contact), while blue indicates regions where residues are likely in close spatial proximity.
 
@@ -98,8 +96,6 @@ The **sequence coverage** shows the region with high sequence identity and cover
 **Figure 12: 1OQA AlphaFold plots**
 
 **Figure 13: 2ING AlphaFold model** 
-
-****
 
 **Figure 14: 2ING AlphaFold plots**
 
@@ -135,10 +131,7 @@ _align molecule1, molecule2, cycles=0, transform=0_
 |  1JNX             ( Agonist)  |                    0.486                    | 0.364                                   |
 | 2ING            ( Antagonist) |                    0.727                    | 0.741                                   |
 
-\
 
-
-****
 
 **Figure 15: Alignment of 1JNX SWISS model with its PDB crystal structure**
 
