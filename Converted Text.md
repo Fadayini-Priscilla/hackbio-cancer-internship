@@ -11,7 +11,7 @@ The vast majority of drug targets are proteins encoded by genes expressed in dis
 
 **_Monoclonal Antibodies (MABs)_**: This is a type of targeted drug therapy for cancers. These drugs identify and locate particular proteins on cancerous cells. MABs are duplicates of a single antibody type as the term "monoclonal" means "one type". Different MABs have been made to target different types of cancers indicating each MAB recognizes one particular protein. They work by blocking signals telling cancer cells to divide and grow, which are typically transmitted via receptors which are proteins, by binding to the active sites of the receptors. All MABs have names that include 'mab' at the end of their generic name. For example, trastuzumab (Herceptin) and rituximab (Mabthera).
 
-![Monoclonal Antibody Image](IMG_5844.jpg)
+![Monoclonal Antibody Image](IMAGES/IMG_5844.jpg)
 
 **Figure 1**: Monoclonal Antibody locked onto a protein on a cancerous cell.
 
