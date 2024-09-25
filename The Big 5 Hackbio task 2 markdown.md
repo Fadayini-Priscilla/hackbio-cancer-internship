@@ -22,11 +22,11 @@ The three BRCA1 protein conformation structures we chose are:
 
 **Figure 1: 1JNX PDB structure**
 
-![1OQA PDB structure Image](056D07D0-A90D-4A65-BFC4-85E0A32F00F7.jpeg)
+![1OQA PDB structure Image](IMAGES/056D07D0-A90D-4A65-BFC4-85E0A32F00F7.jpeg)
 
 **Figure 2: 1OQA PDB structure**
 
-![2ING PDB structure Image](76401E9E-0970-4274-8CE0-419999D7064D.jpeg)
+![2ING PDB structure Image](IMAGES/76401E9E-0970-4274-8CE0-419999D7064D.jpeg)
 
 **Figure 3: 2ING PDB structure**
 
@@ -45,11 +45,11 @@ The BRCA1 protein contains the following domains:
 
 These contain: Valine-1654, Serine-1655, Glycine 1656, Leucine-1676, Threonine-1677, Asparagine-1678, Leucine 1679, Threonine 1700, Lysine 1702, Histidine 1805.
 
-![1JNX Ligand and active site Image](5271804A-208B-4565-846F-14A143E2E1C8.jpeg)
+![1JNX Ligand and active site Image](IMAGES/5271804A-208B-4565-846F-14A143E2E1C8.jpeg)
 
 **Figure 4: 1JNX Nickel ligand and active site**
 
-![2ING ligand and active site Image](4277066F-F2C7-4FFD-9A10-34CF5144A7A9.jpeg)
+![2ING ligand and active site Image](IMAGES/4277066F-F2C7-4FFD-9A10-34CF5144A7A9.jpeg)
 
 **Figure 5: 2ING ligands and active sites**
 
@@ -71,15 +71,15 @@ We chose BRCA1 as our protein and ensured it is a protein present in the protein
 
 Swiss-model (stylized as SWISS-MODEL) is a structural bioinformatics web-server dedicated to homology modelling of 3D protein structures. We performed homology modelling using SWISS MODEL, with the fasta format of protein gotten from RCSB PDB, based on the most accurate template, and downloaded the result in pdb format.
 
-![1JNX SWISS structure Image](3A70986D-3CCF-4C48-85DE-79EDED11BFF0.png)
+![1JNX SWISS structure Image](IMAGES/3A70986D-3CCF-4C48-85DE-79EDED11BFF0.png)
 
 **Figure 6: 1JNX SWISS model**
 
-![1OQA SWISS structure Image](01886C9D-9F3D-492E-9BFE-DFFD5DC7E508.png)
+![1OQA SWISS structure Image](IMAGES/01886C9D-9F3D-492E-9BFE-DFFD5DC7E508.png)
 
 **Figure 7: 1OQA SWISS model**
 
-![2ING SWISS structure Image](6E951BE2-FF76-44E0-AF00-90F59D31B210.png)
+![2ING SWISS structure Image](IMAGES/6E951BE2-FF76-44E0-AF00-90F59D31B210.png)
 
 **Figure 8: 2ING SWISS model**
 
@@ -103,27 +103,27 @@ The **contact maps** display predicted residue-residue contacts in the protein s
 
 The **sequence coverage** shows the region with high sequence identity and coverage (the green and blue colours indicating good coverage)
 
-![1JNX AlphaFold structure Image](C004ADD3-1CBF-4D0E-960C-6BFDDC89D361.jpeg)
+![1JNX AlphaFold structure Image](IMAGES/C004ADD3-1CBF-4D0E-960C-6BFDDC89D361.jpeg)
 
 **Figure 9: 1JNX AlphaFold model**
 
-![1JNX AlphaFold plots Image](1CD6499A-60C0-4339-AD1A-2EA3BF9B3D80.jpeg)
+![1JNX AlphaFold plots Image](IMAGES/1CD6499A-60C0-4339-AD1A-2EA3BF9B3D80.jpeg)
 
 **Figure 10: 1JNX AlphaFold plots**
 
-![1OQA AlphaFold structure Image](E637F850-FDD2-4315-93D0-25E6A299CE80.jpeg)
+![1OQA AlphaFold structure Image](IMAGES/E637F850-FDD2-4315-93D0-25E6A299CE80.jpeg)
 
 **Figure 11: 1OQA AlphaFold model**
 
-![1OQA AlphaFold plots Image](128495AF-B97E-4CAB-80B9-20F61474D868.jpeg)
+![1OQA AlphaFold plots Image](IMAGES/128495AF-B97E-4CAB-80B9-20F61474D868.jpeg)
 
 **Figure 12: 1OQA AlphaFold plots**
 
-![2ING AlphaFold structure Image](5E3A57A3-6448-4AF0-B000-E53028006427.jpeg)
+![2ING AlphaFold structure Image](IMAGES/5E3A57A3-6448-4AF0-B000-E53028006427.jpeg)
 
 **Figure 13: 2ING AlphaFold model** 
 
-![2ING AlphaFold plots Image](3715C142-4E6B-45E3-A9EF-BCA5DF24C283.jpeg)
+![2ING AlphaFold plots Image](IMAGES/3715C142-4E6B-45E3-A9EF-BCA5DF24C283.jpeg)
 
 **Figure 14: 2ING AlphaFold plots**
 
@@ -160,27 +160,27 @@ _align molecule1, molecule2, cycles=0, transform=0_
 | 2ING            ( Antagonist) |                    0.727                    | 0.741                                   |
 
 
-![Alignment 1JNX SWISS and PDB Image](8BAB3B46-274F-4991-A029-0559A11BF1DD.jpeg)
+![Alignment 1JNX SWISS and PDB Image](IMAGES/8BAB3B46-274F-4991-A029-0559A11BF1DD.jpeg)
 
 **Figure 15: Alignment of 1JNX SWISS model with its PDB crystal structure**
 
-![Alignment 1OQA SWISS and PDB Image](D74A73FC-FE18-4684-B19E-0465A79A32D1.jpeg)
+![Alignment 1OQA SWISS and PDB Image](IMAGES/D74A73FC-FE18-4684-B19E-0465A79A32D1.jpeg)
 
 **Figure 16: Alignment of 1OQA SWISS model with its PDB crystal structure**
 
-![Alignment 2ING SWISS and PDB Image](8A0D2E13-672D-42F7-B10C-EA3133631965.jpeg)
+![Alignment 2ING SWISS and PDB Image](IMAGES/8A0D2E13-672D-42F7-B10C-EA3133631965.jpeg)
 
 **Figure 17: Alignment of 2ING SWISS model with its PDB crystal structure**
 
-![Alignment 1JNX AlphaFold and PDB Image](7FC60292-99E9-49D3-B683-1370ABE7B22A.jpeg)
+![Alignment 1JNX AlphaFold and PDB Image](IMAGES/7FC60292-99E9-49D3-B683-1370ABE7B22A.jpeg)
 
 **Figure 18: Alignment of 1JNX AlphaFold model with its PDB crystal structure**
 
-![Alignment 1OQA AlphaFold and PDB Image](181CCA36-4AB3-4AC8-ABF7-CD27D696FB78.jpeg)
+![Alignment 1OQA AlphaFold and PDB Image](IMAGES/181CCA36-4AB3-4AC8-ABF7-CD27D696FB78.jpeg)
 
 **Figure 19: Alignment of 1OQA AlphaFold model with its PDB crystal structure**
 
-![Alignment 2ING AlphaFold and PDB Image](88D05DBA-D567-4362-9DF4-92F834F63E10.jpeg)
+![Alignment 2ING AlphaFold and PDB Image](IMAGES/88D05DBA-D567-4362-9DF4-92F834F63E10.jpeg)
 
 **Figure 20: Alignment of 2ING AlphaFold model with its PDB crystal structure**
 
