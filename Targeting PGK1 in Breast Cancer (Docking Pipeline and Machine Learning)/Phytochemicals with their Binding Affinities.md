@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-**Table 2: Phytochemicals and their binding affinity with 4O33 protein.**
+**Table 2: Phytochemicals and their binding affinity with PGK1 (ID=4O33) protein.**
 
 |         |                                |                       |
 | ------- | ------------------------------ | --------------------: |
