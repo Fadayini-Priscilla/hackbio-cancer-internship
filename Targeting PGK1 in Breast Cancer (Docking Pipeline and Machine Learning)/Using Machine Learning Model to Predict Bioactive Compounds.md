@@ -15,7 +15,7 @@ Terazosin, a potential drug known to target PGK1 protein of SMILES(COC1=C(C=C2C(
 
 **Methodology**
 
-ChEMBL bioactivity data for PGK1 was retrieved, IC50 values were converted to pIC50, and molecular descriptors generated using RDKit. A Random Forest Regressor was trained, evaluated using MSE and R-squared, and cross-validated using KFold. Predictions for the docked compounds and a ligand known to inhibit PGK1 (Terazosin) were made using the trained model. The Google Colab notebook can be accessed here for further details.
+ChEMBL bioactivity data for PGK1 was retrieved, IC50 values were converted to pIC50, and molecular descriptors generated using RDKit. A Random Forest Regressor was trained, evaluated using MSE and R-squared, and cross-validated using KFold. Predictions for the docked compounds and a ligand known to inhibit PGK1 (Terazosin) were made using the trained model. The Google Colab notebook can be accessed ([here](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/0e39c406c77d21650ff205831520d2fef3a5f9c3/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Machine%20Learning%20Code%20for%20PGK1.ipynb)) for further details.
 
 **Results**
 
