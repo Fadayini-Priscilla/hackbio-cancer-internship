@@ -30,7 +30,7 @@ Phytochemicals were selected from _Curcuma longa_ (Iweala _et al_., 2023).
 PGK1 Protein structure (ID=4O33) was obtained from RCSB PDB and downloaded in the protein data bank (PDB) format.
 
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33.png)
 
 **Figure 1: PyMOL visualisation of 4O33 protein**
 
