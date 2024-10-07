@@ -1,8 +1,6 @@
-v
-
 |                                |                                                                                                               |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| Phytochemical Names            | SMILES                                                                                                        |
+| **Phytochemical Names**            | **SMILES**                                                                                                        |
 | (E)-beta-Farnesene             | CC(=CCC/C(=C/CCC(=C)C=C)/C)C                                                                                  |
 | (+)-delta-Cadinene             | CC1=C\[C\@H]2\[C@@H]\(CCC(=C2CC1)C)C(C)C                                                                      |
 | delta-Elemene                  | CC(C)C1=C\[C@@H]\(\[C@@]\(CC1)(C)C=C)C(=C)C                                                                   |
