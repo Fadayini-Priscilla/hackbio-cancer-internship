@@ -7,7 +7,7 @@
 
 The PGK1 gene encodes a glycolytic enzyme that converts 1,3-diphosphoglycerate to 3-phosphoglycerate and may also be a cofactor for polymerase alpha. The protein is secreted by tumour cells for angiogenesis, reducing disulfide bonds in plasmin, leading to the release of angiostatin, a tumour blood vessel inhibitor. The encoded protein is identified as a moonlighting protein due to its distinct functions.
 
-Terazosin, a potential drug known to target PGK1 protein of SMILES(COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC), specifically inhibit PGK1 in vitro by activating PGK1 to produce more ATP to activate HSP90, thus protecting organ damage from multi-stress challenges
+Terazosin, a potential drug known to target PGK1 protein of SMILES (COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC), specifically inhibit PGK1 in vitro by activating PGK1 to produce more ATP to activate HSP90, thus protecting organ damage from multi-stress challenges
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfc0G6BLP5ibGAVGx-1h0c0yOLrhamMKn6qdzeWmJZ88fuzH8oJWJ0h37vOflKrB-UOLTqP20SMKYDxM6B1SYU7j1pOdb2h2xZhG_UeZRcrJ10kC_skWHxR4FU6Wkt9M6NKObl-eDHM2Kma59kzBJmKCByma8yvdXX7FPDZSA?key=9OHSq5zjQKYauXezibhhwQ)
 
