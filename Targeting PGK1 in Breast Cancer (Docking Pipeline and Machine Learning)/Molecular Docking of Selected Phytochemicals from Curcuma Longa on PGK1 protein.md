@@ -1,9 +1,9 @@
 <!--StartFragment-->
 
-Molecular docking of selected phytochemicals from _Curcuma longa_ on PGK1 protein.
+# **Molecular docking of selected phytochemicals from _Curcuma longa_ on PGK1 protein**
 
 
-# **Introduction**
+## **Introduction**
 
 Breast cancer is a common type of cancer affecting women worldwide and a leading cause of cancer-related deaths. The complexity and variability of breast cancer make it challenging to treat, especially in its more aggressive forms (Sung et al., 2021). The search for novel, more targeted therapies continues to grow due to the resistance to conventional treatments such as chemotherapy. One approach being explored is using natural compounds with anticancer properties, such as those in medicinal plants (Newman and Cragg, 2020).  Medicinal plants have long been a good source of drugs, for example, the Madagascar periwinkle which is used for treating cancer (Moudi et al., 2013). 
 
@@ -16,7 +16,7 @@ Key post-translational modifications (PTMs) like acetylation and O-GlcNAcylation
 By docking phytochemicals from _Curcuma longa_ with PGK1, this study aims to evaluate their potential as inhibitors, providing insight into natural compounds that could lead to novel breast cancer treatments.
 
 
-# **Materials and Methods**
+## **Materials and Methods**
 
 ## **Photochemical Library**
 
@@ -95,7 +95,7 @@ This study provides a pipeline for protein-ligand docking. PubChem and PyRx are 
 
 The potential of phytochemicals derived from turmeric to target PGK1 has been shown in this study. Other experimental studies can be carried out to confirm the efficacy of the phytochemicals.
 
-**REFERENCES**
+## **REFERENCES**
 
 Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. (2021). Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. _CA: A Cancer Journal for Clinicians_, _71_(3), 209-249. <https://doi.org/10.3322/caac.21660>
 
