@@ -30,13 +30,14 @@ Phytochemicals were selected from _Curcuma longa_ (Iweala _et al_., 2023).
 PGK1 Protein structure (ID=4O33) was obtained from RCSB PDB and downloaded in the protein data bank (PDB) format.
 
 
-![](Visualizations of Docking Results/4o33.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
 
 **Figure 1: PyMOL visualisation of 4O33 protein**
 
 Pocket data describing the coordinates of all amino acids present was done from CASTp analysis of 4O33 protein. Information on amino acids present at the active site was obtained by visualising the active site and labelling the amino acids present. This was compared with their label on CASTp, and the corresponding coordinates were collated.
 
-![](Visualizations of Docking Results/Active sites of 4O33 Protein.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+
 **Figure 2: PyMOL visualisation of 4O33 protein active site**
 
 Average x, y, and z coordinates for pockets of amino acids in the active site were estimated and resulting coordinates were used as docking site, and to create a grid on AutoDock.
@@ -56,31 +57,36 @@ The results were collated in one text file from the command “tail -n11 \*.txt>
 
 Molecular docking results ([Table 2](https://docs.google.com/document/d/1wObgHVwe4-CQ5ly6EMqNriwnn3qRdHv6/edit?usp=sharing\&ouid=115010163280656693773\&rtpof=true\&sd=true)) show that 8 phytochemicals from the 53; α-Cedrene, β-Bisabolene, Curzerenone, Dihydrocurcumin, p-Cymene, Caffeic acid, α-Humulene, and δ-Cadinene have the best binding affinities, ranging from -7.7 to -8.3. This proves that these phytochemicals can inhibit cancer cell proliferation for breast cancer treatments.
 
-![](Visualizations of Docking Results/4o33+alphta-cedrene.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
 
 **Figure 3: PyMOL visualisation of α-Cedrene docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+beta-bisabolene.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+
 **Figure 4: PyMOL visualisation of β-Bisabolene docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+curzerenone.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+
 **Figure 5: PyMOL visualisation of Curzerenone docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+dihydrocurcumin.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+
 **Figure 6: PyMOL visualisation of Dihydrocurcumin docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+p-cymene.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
 
 **Figure 7: PyMOL visualisation of p-Cymene docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+caffeic-acid.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+
 **Figure 8: PyMOL visualisation of Caffeic acid docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+alpha-humulene.png)
+![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
 
 **Figure 9: PyMOL visualisation of α-Humulene docked on 4O33 protein**
 
-![](Visualizations of Docking Results/4o33+delta-cadinene.png)
+![](VisualizationsofDockingResults/4o33+delta-cadinene.png)
+
 **Figure 10: PyMOL visualisation of δ-Cadinene docked on 4O33 protein**
 
 This study provides a pipeline for protein-ligand docking. PubChem and PyRx are open access thus this pipeline can be easily replicated which can be adjusted for a diverse scale of docking projects, contributing to the growing field of cancer drug discovery through natural products.
