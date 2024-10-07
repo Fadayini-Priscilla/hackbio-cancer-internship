@@ -57,36 +57,33 @@ The results were collated in one text file from the command “tail -n11 \*.txt>
 
 Molecular docking results ([Table 2](https://docs.google.com/document/d/1wObgHVwe4-CQ5ly6EMqNriwnn3qRdHv6/edit?usp=sharing\&ouid=115010163280656693773\&rtpof=true\&sd=true)) show that 8 phytochemicals from the 53; α-Cedrene, β-Bisabolene, Curzerenone, Dihydrocurcumin, p-Cymene, Caffeic acid, α-Humulene, and δ-Cadinene have the best binding affinities, ranging from -7.7 to -8.3. This proves that these phytochemicals can inhibit cancer cell proliferation for breast cancer treatments.
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Balpha-cedrene.png)
 
 **Figure 3: PyMOL visualisation of α-Cedrene docked on 4O33 protein**
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Bbeta-bisabolene.png)
 
 **Figure 4: PyMOL visualisation of β-Bisabolene docked on 4O33 protein**
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Bcurzerenone.png)
 
 **Figure 5: PyMOL visualisation of Curzerenone docked on 4O33 protein**
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Bdihydrocurcumin.png)
 
 **Figure 6: PyMOL visualisation of Dihydrocurcumin docked on 4O33 protein**
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Bp-cymene.png)
 
 **Figure 7: PyMOL visualisation of p-Cymene docked on 4O33 protein**
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
-
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Bcaffeic-acid.png)
 **Figure 8: PyMOL visualisation of Caffeic acid docked on 4O33 protein**
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
-
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Balpha-humulene.png)
 **Figure 9: PyMOL visualisation of α-Humulene docked on 4O33 protein**
 
-![](VisualizationsofDockingResults/4o33+delta-cadinene.png)
-
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/4o33%2Bdelta-cadinene.png)
 **Figure 10: PyMOL visualisation of δ-Cadinene docked on 4O33 protein**
 
 This study provides a pipeline for protein-ligand docking. PubChem and PyRx are open access thus this pipeline can be easily replicated which can be adjusted for a diverse scale of docking projects, contributing to the growing field of cancer drug discovery through natural products.
