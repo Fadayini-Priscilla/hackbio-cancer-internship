@@ -93,7 +93,7 @@ This study provides a pipeline for protein-ligand docking. PubChem and PyRx are 
 
 The potential of phytochemicals derived from turmeric to target PGK1 has been shown in this study. Other experimental studies can be carried out to confirm the efficacy of the phytochemicals.
 
-## **REFERENCES**
+## **Refrences**
 
 Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. (2021). Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. _CA: A Cancer Journal for Clinicians_, _71_(3), 209-249. <https://doi.org/10.3322/caac.21660>
 
