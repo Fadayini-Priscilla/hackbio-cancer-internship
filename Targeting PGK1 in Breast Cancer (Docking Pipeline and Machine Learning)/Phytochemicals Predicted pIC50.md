@@ -1,6 +1,6 @@
 |                                |                                 |
 | ------------------------------ | :-----------------------------: |
-| Phytochemical Names            | Phytochemicals Predicted\_pIC50 |
+| **Phytochemical Names**        | **Phytochemicals Predicted\_pIC50** |
 | (E)-beta-Farnesene             |           6.530832093           |
 | (+)-delta-Cadinene             |           6.716686114           |
 | delta-Elemene                  |           6.975523574           |
