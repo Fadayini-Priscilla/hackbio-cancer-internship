@@ -109,7 +109,6 @@ Hu, H., Zhu, W., Qin, J., Chen, M., Gong, L., Li, L., Liu, X., Tao, Y., Yin, H.,
 
 Iweala, E. J., Uche, M. E., Dike, E. D., Etumnu, L. R., Dokunmu, T. M., Oluwapelumi, A. E., ... & Ugbogu, E. A. (2023). Curcuma longa (Turmeric): Ethnomedicinal uses, phytochemistry, pharmacological activities and toxicity profiles—A review. _Pharmacological Research-Modern Chinese Medicine_, 6, 100222.
 
-\
 
 
 <!--EndFragment-->
