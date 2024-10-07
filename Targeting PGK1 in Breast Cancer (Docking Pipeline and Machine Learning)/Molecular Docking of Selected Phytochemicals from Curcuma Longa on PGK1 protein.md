@@ -27,7 +27,7 @@ Phytochemicals were selected from _Curcuma longa_ (Iweala _et al_., 2023).
 
 ## **Molecular Docking**
 
-Protein structure (4O33) was obtained from RCSB PDB and downloaded in the protein data bank (PDB) format.
+PGK1 Protein structure (ID=4O33) was obtained from RCSB PDB and downloaded in the protein data bank (PDB) format.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyaCYTdxuGYZrw0ksoa5dhKsYlke40jF__vWykHg-4zpXhjxMf2LTzaMQnAf64XFXDN845cJPrDEQHXNtV1GmsNFBMMbP0ApWK7jtqaNmlIpg-4P1JpQbQdnVfVeEdk6u154jDWQPpkJIJNsa1l4-TZUDs?key=ujy-ct2QySwOFKzXvUyudg)
 
