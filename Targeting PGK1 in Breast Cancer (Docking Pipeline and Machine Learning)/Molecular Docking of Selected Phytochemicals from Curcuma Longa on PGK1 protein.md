@@ -31,13 +31,13 @@ PGK1 Protein structure (ID=4O33) was obtained from RCSB PDB and downloaded in th
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyaCYTdxuGYZrw0ksoa5dhKsYlke40jF__vWykHg-4zpXhjxMf2LTzaMQnAf64XFXDN845cJPrDEQHXNtV1GmsNFBMMbP0ApWK7jtqaNmlIpg-4P1JpQbQdnVfVeEdk6u154jDWQPpkJIJNsa1l4-TZUDs?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 2: PyMOL visualisation of 4O33 protein.
+**Figure 1: PyMOL visualisation of 4O33 protein**
 
 Pocket data describing the coordinates of all amino acids present was done from CASTp analysis of 4O33 protein. Information on amino acids present at the active site was obtained by visualising the active site and labelling the amino acids present. This was compared with their label on CASTp, and the corresponding coordinates were collated.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYBiJsv7YEJv8D286mmaEQBBsSomAt93QBpgJEFWV-pRVvmkINl9PJxZyvzALOSQEqJ_4z1Uo4Oz2HKc2pb71FRn0zeQzzxY87py5Vszwooz-9VgK9Drv5GPdhogOppEJ-E_o0wx9itk2F7h1IhTg55K2i?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 3: PyMOL visualisation of 4O33 protein active site.
+**Figure 2: PyMOL visualisation of 4O33 protein active site**
 
 Average x, y, and z coordinates for pockets of amino acids in the active site were estimated and resulting coordinates were used as docking site, and to create a grid on AutoDock.
 
@@ -58,35 +58,35 @@ Molecular docking results ([Table 2](https://docs.google.com/document/d/1wObgHVw
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6SufWZ7xAaSawS5_5aKg41aa91i2PL90i0l_UW4-8ynYfmX8dkRkTu1s8s5PUllobKaeuFsOTBsKFiaJr88jgpKl-ASnv4FZTCWwho1DXK8Q62lBSl--2WbrxAbyjUQ7RvA_1CjRoPsUxOmAsVbAJAX7E?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 3: PyMOL visualisation of α-Cedrene docked on 4O33 protein.
+**Figure 3: PyMOL visualisation of α-Cedrene docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf5vvOs0uxfOAmxv1LYNbubJTl1K0UzkstgoL7eTvYd-wg6sxC1ddaF7dHlh7vzu0IvoJ9SfgGwHbiAOD0cgKJ_mRTKXWcDcLFOO7F0kqOJqVMl6K_4Gjxs2wE4hoblIwhDLVDgirndHZFXVdJG-Ig7re0M?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 4: PyMOL visualisation of β-Bisabolene docked on 4O33 protein.
+**Figure 4: PyMOL visualisation of β-Bisabolene docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeV6_xvKVZQ0PprTc8JlkF0N61Q1KnKkxTGlDD-lwtaJ6j2kGGXpFFlHbS3zpU-Fi7WS42S_2Kf8inr-ZJRu28dkhjV_2uuJNZlN2Jzfcr84o9hn_f9phfvZtsRGDAqGSTbJY0Fb1RUpdY4KrAip3PBAeOH?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 5: PyMOL visualisation of Curzerenone docked on 4O33 protein.
+**Figure 5: PyMOL visualisation of Curzerenone docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-ih7aLXSsXuVApPM6clWKy7yie8Dvpxc-AiMePoHIHr7vw9LLthEzjbTmA1Pc2EDiJUFdJ1_mWKN59tVKS7PPe0J-7y_ZYensByddYzTTadfdzMm8Xkv5RA3DRuYXUrDVsQWQ_SOPAxlIxS8Dtt3AnlwK?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 6: PyMOL visualisation of Dihydrocurcumin docked on 4O33 protein.
+**Figure 6: PyMOL visualisation of Dihydrocurcumin docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRW3DtGkxyjP-gRwDqpjhLAc1f9YXtmfG9Y4YDAaNaJ-z9V6Gv-9w9B2xJQI6_6dRJUHyunHIECNXxRgkIn4K6OMqAr9pI9fW_4VIhL3wapFVVTZnrX4_6R8FOia0e3zjXfuDtGyKqIQzveUl1p79HTdYW?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 7: PyMOL visualisation of p-Cymene docked on 4O33 protein.
+**Figure 7: PyMOL visualisation of p-Cymene docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu0wkkCzPtf-glEU8CTa1WbWAvaSvZgflgkxLnPZ0bl8pLbGAWEVtsJ6wF2WHQx40k-4Vn4SwGIZ6fBrtT8DDa2Nnm_JNnWA56yng8YEF3ryoTqC49UD0IgMkUq1I2og3gbZcBwG1vLqQxfqC556Zc4KCZ?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 8: PyMOL visualisation of Caffeic acid docked on 4O33 protein.
+**Figure 8: PyMOL visualisation of Caffeic acid docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOSYGSSRztbKbB-CeaAzlMaxOCUnmlNxxnaZnTSoTbt8Jp1mv17qdFhTERlr5YeEkmrjDbpidRP9zu-gKdmMN4qNOgCUIkZRAlU-HyPflGjo78u-IatyFaBvAGug60Cot3jSiEMM-dlHtPjEYA5l0LafWx?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 9: PyMOL visualisation of α-Humulene docked on 4O33 protein.
+**Figure 9: PyMOL visualisation of α-Humulene docked on 4O33 protein**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyfZoOBv2kPjToaDCasvm50IFoa0iooObMFWaOIykQZrYCHnngXKasz8pdAdt4TK4GQb4SeGojaZ8x1kly7Eq9ICSCCqrzQJDSAwUXGVhvsTKjWMXuHfjkQQ3hu28GYjooUI8JC6zKSUxlxz2B5YhOloxx?key=ujy-ct2QySwOFKzXvUyudg)
 
-Figure 10: PyMOL visualisation of δ-Cadinene docked on 4O33 protein.
+**Figure 10: PyMOL visualisation of δ-Cadinene docked on 4O33 protein**
 
 This study provides a pipeline for protein-ligand docking. PubChem and PyRx are open access thus this pipeline can be easily replicated which can be adjusted for a diverse scale of docking projects, contributing to the growing field of cancer drug discovery through natural products.
 
