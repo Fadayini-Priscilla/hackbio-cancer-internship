@@ -36,7 +36,7 @@ PGK1 Protein structure (ID=4O33) was obtained from RCSB PDB and downloaded in th
 
 Pocket data describing the coordinates of all amino acids present was done from CASTp analysis of 4O33 protein. Information on amino acids present at the active site was obtained by visualising the active site and labelling the amino acids present. This was compared with their label on CASTp, and the corresponding coordinates were collated.
 
-![PDB Active site Image](IMAGES/1BBB6D04-FD05-43FD-8084-CD6D0E896E59.png)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/main/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/Active%20sites%20of%204O33%20Protein.png)
 
 **Figure 2: PyMOL visualisation of 4O33 protein active site**
 
