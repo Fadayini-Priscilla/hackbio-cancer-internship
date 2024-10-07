@@ -22,7 +22,7 @@ By docking phytochemicals from _Curcuma longa_ with PGK1, this study aims to eva
 
 Phytochemicals were selected from _Curcuma longa_ (Iweala _et al_., 2023).
 
-[Table 1](https://docs.google.com/document/d/1jWwa-9Eem9Mi3mbPwAvRumgTOEHXgQcI/edit?usp=sharing\&ouid=115010163280656693773\&rtpof=true\&sd=true): Phytochemical library from _Curcuma longa_ plant.
+[Table 1](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/c9dc7410a91442df1b2eac3795111aaa04c33bf8/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Phytochemical%20Library%20of%20Curcuma%20Longa.md): Phytochemical library from _Curcuma longa_ plant.
 
 
 ## **Molecular Docking**
