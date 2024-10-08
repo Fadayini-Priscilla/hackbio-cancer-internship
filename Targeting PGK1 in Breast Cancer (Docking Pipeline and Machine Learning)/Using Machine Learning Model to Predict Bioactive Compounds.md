@@ -3,6 +3,10 @@
 
 # **Using Machine Learning Model to Predict Bioactive Compounds** 
 
+
+Authors (@slack): Bryan Muli (@brayo), Akinkunmi Bamigboye (@akinn), Abeeha Raza (@Abeeha97), Priscilla Fadayini (@Priscillaaa), Samuel Badekale (@SammyB)
+
+
 ## **Introduction** 
 
 The PGK1 gene encodes a glycolytic enzyme that converts 1,3-diphosphoglycerate to 3-phosphoglycerate and may also be a cofactor for polymerase alpha. The protein is secreted by tumour cells for angiogenesis, reducing disulfide bonds in plasmin, leading to the release of angiostatin, a tumour blood vessel inhibitor. The encoded protein is identified as a moonlighting protein due to its distinct functions.
