@@ -2,6 +2,9 @@
 
 # **Molecular docking of selected phytochemicals from _Curcuma longa_ on PGK1 protein**
 
+Authors (@slack): Bryan Muli (@brayo), Akinkunmi Bamigboye (@akinn), Abeeha Raza (@Abeeha97), Priscilla Fadayini (@Priscillaaa), Samuel Badekale (@SammyB)
+
+
 
 ## **Introduction**
 
