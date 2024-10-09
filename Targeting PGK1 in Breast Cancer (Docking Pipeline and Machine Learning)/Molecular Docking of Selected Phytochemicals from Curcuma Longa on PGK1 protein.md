@@ -96,6 +96,32 @@ This study provides a pipeline for protein-ligand docking. PubChem and PyRx are 
 
 The potential of phytochemicals derived from turmeric to target PGK1 has been shown in this study. Other experimental studies can be carried out to confirm the efficacy of the phytochemicals.
 
+
+# **Part 2: Using Machine Learning Model to Predict Bioactive Compounds** 
+
+Terazosin, a potential drug known to target PGK1 protein of SMILES (COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC), specifically inhibit PGK1 in vitro by activating PGK1 to produce more ATP to activate HSP90, thus protecting organ damage from multi-stress challenges
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfc0G6BLP5ibGAVGx-1h0c0yOLrhamMKn6qdzeWmJZ88fuzH8oJWJ0h37vOflKrB-UOLTqP20SMKYDxM6B1SYU7j1pOdb2h2xZhG_UeZRcrJ10kC_skWHxR4FU6Wkt9M6NKObl-eDHM2Kma59kzBJmKCByma8yvdXX7FPDZSA?key=9OHSq5zjQKYauXezibhhwQ)
+
+**Figure 11: Terazosin structure**
+
+**Methodology**
+
+ChEMBL bioactivity data for PGK1 was retrieved, IC50 values were converted to pIC50, and molecular descriptors generated using RDKit. A Random Forest Regressor was trained, evaluated using MSE and R-squared, and cross-validated using KFold. Predictions for the docked compounds and a ligand known to inhibit PGK1 (Terazosin) were made using the trained model. The Google Colab notebook can be accessed ([here](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/0e39c406c77d21650ff205831520d2fef3a5f9c3/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Machine%20Learning%20Code%20for%20PGK1.ipynb)) for further details.
+
+**Results**
+
+The Random Forest model showed moderate performance and generalization ability, with a Root Mean Squared Error (RMSE) of 0.79, Mean Absolute Error (MAE) of 0.60, and an R-squared value of 0.49. Cross-validation using KFold resulted in MSE scores ranging from 0.62 to 0.69, with an average MSE of 0.65. This model predicted the pIC50 values for 50 docked ligands and Terazosin, aiding in potential bioactive compound identification against the target protein, PGK1. The predicted pIC50’s can be accessed ([here](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/7eb1a6fc6b046683f8ddc9087eb861f18f435c86/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Phytochemicals%20Predicted%20pIC50.md)) for the phytochemicals and ([here](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/d26aa738cad81ff0c83cc0108555c225a8d782b6/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Terazosin%20Predicted%20pIC50.md)) for terazosin. From the predicted p_IC50 results, potential phytochemicals that can inhibit the PGK1 protein are E-beta-Farnesene, Syringic acid, Isorhamnetin, Gallic acid, Sinapic acid.
+
+**Discussion**
+
+The bioactivity of PGK1 is predicted using key molecular descriptors such as Molecular Weight, log P, and Hydrogen Bond Acceptors. A balanced log P ensures effective binding, an adequate MW aids penetration, and hydrogen bond acceptors facilitate interaction with major residues. The Random Forest model's performance is below average, explaining 49% of the variance in pIC50 values. Moderate MSE scores suggest the model's utility in virtual screening but highlight potential limitations due to dataset size and feature complexity.
+
+**Conclusion**
+
+Machine learning predicts bioactivity against PGK1 with moderate accuracy, but improvements in dataset expansion and feature enhancement are needed for better drug discovery results.
+
+
 ## **References**
 
 Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. (2021). Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. _CA: A Cancer Journal for Clinicians_, _71_(3), 209-249. <https://doi.org/10.3322/caac.21660>
