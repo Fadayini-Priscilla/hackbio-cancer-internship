@@ -4,6 +4,9 @@
 # **REPRODUCING SCIENCE: FULL PIPELINE 2**
 
 
+Authors (@slack): Akinkunmi Bamigboye (@akinn), Priscilla Fadayini (@Priscillaaa)
+
+
 ## **INTRODUCTION** ##
 
 The study titled “Machine Learning Prediction of Cancer Cell Sensitivity to Drugs Based on Genomic and Chemical Properties” explores the integration of machine learning in cancer drug discovery. The researchers developed models to predict cancer cell line responses to therapies based on genomic features and the chemical properties of drugs. High-throughput screenings have revealed correlations between genetic alterations and drug sensitivity, motivating the use of computational methods to enhance predictive accuracy.
