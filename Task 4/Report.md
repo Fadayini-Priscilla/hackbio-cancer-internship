@@ -76,7 +76,7 @@ PDB of 9 HDACs; HDAC1 (5ICN), HDAC2 (7ZZS), HDAC3 (4A69), HDAC4 (2VQM), HDAC5 (5
 
 Inhibitors of the 11 HDAC subtypes and 50 phytochemicals from _Curcuma longa_ (Iweala _et al_., 2023) were retrieved from PubChem library and downloaded as Structure Data Files.
 
-[Table 1](https://docs.google.com/document/d/1DZwPM9vvZoMjyXv7rJhcEre7jh_1Q33i/edit): Ligands for HDAC molecular docking.
+[Table 1](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/314d2adace7cd1d069e2e5d0a71539a1fa78f594/Task%204/HDAC%20Docking%20Ligands.md): Ligands for HDAC molecular docking.
 
 Active sites of 11 HDACs were determined using CASTp. Energy minimisation of the 61 inhibitors was performed on PyRx, and both proteins and ligands were converted to PDBQT (Protein Data Bank, Partial Charge, and Atom Type) format using the same software. Ligands were docked on the HDACs using PyRx in triplicates to produce reliable results. The results of the binding affinities are shown in [table 2](https://docs.google.com/document/d/1K2KLkKbRpcXamicbV9uTFnKmcXr8gmNtYA_--2R8krQ/edit?usp=sharing).
 
