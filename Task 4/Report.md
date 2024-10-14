@@ -77,7 +77,7 @@ Inhibitors of the 11 HDAC subtypes and 50 phytochemicals from _Curcuma longa_ (I
 
 [Table 1](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/314d2adace7cd1d069e2e5d0a71539a1fa78f594/Task%204/HDAC%20Docking%20Ligands.md): Ligands for HDAC molecular docking.
 
-Active sites of 11 HDACs were determined using CASTp. Energy minimisation of the 61 inhibitors was performed on PyRx, and both proteins and ligands were converted to PDBQT (Protein Data Bank, Partial Charge, and Atom Type) format using the same software. Ligands were docked on the HDACs using PyRx in triplicates to produce reliable results. The results of the binding affinities are shown in [table 2](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/493f931affc95b4ae5214a149fa1d977a6ca4086/Task%204/Molecular%20Docking%20Binding%20Affinities.md).
+Active sites of 11 HDACs were determined using CASTp. Energy minimisation of the 61 inhibitors was performed on PyRx, and both proteins and ligands were converted to PDBQT (Protein Data Bank, Partial Charge, and Atom Type) format using the same software. Ligands were docked on the HDACs using PyRx in triplicates to produce reliable results. The results of the binding affinities are shown in [Table 2](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/493f931affc95b4ae5214a149fa1d977a6ca4086/Task%204/Molecular%20Docking%20Binding%20Affinities.md).
 
 ## **RESULTS & DISCUSSION**
 
