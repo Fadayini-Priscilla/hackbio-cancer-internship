@@ -82,7 +82,7 @@ Active sites of 11 HDACs were determined using CASTp. Energy minimisation of the
 
 ## **RESULTS & DISCUSSION**
 
-Molecular docking results of 11 HDACs subtypes are presented in [Table 2](https://docs.google.com/document/d/1K2KLkKbRpcXamicbV9uTFnKmcXr8gmNtYA_--2R8krQ/edit?usp=sharing), and visualised as a heatmap in Figure 1. This analysis showed that the results were consistent, with a low range of standard deviation across results (0 - 1.1).
+Molecular docking results of 11 HDACs subtypes are presented in [Table 2](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/493f931affc95b4ae5214a149fa1d977a6ca4086/Task%204/Molecular%20Docking%20Binding%20Affinities.md), and visualised as a heatmap in Figure 1. This analysis showed that the results were consistent, with a low range of standard deviation across results (0 - 1.1).
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3OFyzS3OoRRDsql2DcKW3Gkiak7jwF8Zph1nPxwcXvGQxWVaBxvW0oqlky7yC84xaL6oXL1hRAQt0iXogbXmbIBxysdCkqSHPZSyW_5Ov8tUVVOTHnKqXfM2KrdwL1S9Ca7HPvdg82bt6a1kyulf0KQeT?key=VnO3vB75pdrrGTifxiAKrg)
 
