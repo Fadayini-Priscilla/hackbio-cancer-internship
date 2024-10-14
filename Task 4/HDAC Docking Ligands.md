@@ -1,8 +1,5 @@
 <!--StartFragment-->
 
-<!--StartFragment-->
-
-<!--StartFragment-->
 
 **Table 1: Ligands for HDAC Docking.**
 
@@ -71,75 +68,6 @@
 | 60      | TH34                           |                                                                    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfS66Kdx6KrcwOwawdU3AfTqDWvFU9pnS3W88JZIE8uVFPJ31jZpcgLMRD9Gm24E2hIdLoTuyLgAJI3ov5AcsxCM7gIxp28VWuPJujHElZf13CHv-CzJLVGI-6wurqcOqiLleU45hSp7q2IBN6649EKXcbg2g4roB4Zzz32mA?key=ejOZ_L7WkVGeMy68sr7FKQ)                                                                    | <https://doi.org/10.1007/s00204-018-2234-8>            |
 | 61      | FT895                          |                                                                    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXftG8SPFY1sKinBWvCJrLhuOKDWL_CrUOAvJkgzc0jS3oatDq1fUZ0J7k75-V3T8j-ShlnnR4dyCkiRqWQ_XfMifJdY47PDy_7xR44jMW0atLXRPtfQm85iqlTVvW7Di_uRTaAp5W2-mHUaLOc5Q_qIJxzh9Jzh7ZDrBR6TTw?key=ejOZ_L7WkVGeMy68sr7FKQ)                                                                    | <http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8899988/> |
 
-\
 
-
-<!--EndFragment-->
-
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
 
 <!--EndFragment-->
