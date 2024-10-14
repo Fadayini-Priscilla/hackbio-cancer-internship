@@ -32,8 +32,7 @@ The RMSE (Root Mean Square Error) value of 2.4962 indicates that, on average, th
 
 MAE represents the average absolute difference between predicted and actual values. Like MSE, lower values indicate better model performance. An MAE of 1.996 indicates that, on average, the predictions are off by about 1.996 units.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9T39WAsbF5E8T6SsUmTiPk6GaBc2EEKRrDACDR4vFHljDs2cj-6Gq720jqEaIpoKzB0_A5FUQBu_SV54QfjZzPS9-lP54KuSBEzr2xZD93GiUeVrspwdoTEZpE2Iod0KbJIjKMzEc-OJU6UyuRAEsKIS_?key=VnO3vB75pdrrGTifxiAKrg)
-
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/Actual%20vs%20Predicted%20IC50.png)
 
 Figure 1: Actual IC50 vs Predicted IC50
 
@@ -82,66 +81,65 @@ Active sites of 11 HDACs were determined using CASTp. Energy minimisation of the
 
 ## **RESULTS & DISCUSSION**
 
-Molecular docking results of 11 HDACs subtypes are presented in [Table 2](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/493f931affc95b4ae5214a149fa1d977a6ca4086/Task%204/Molecular%20Docking%20Binding%20Affinities.md), and visualised as a heatmap in Figure 1. This analysis showed that the results were consistent, with a low range of standard deviation across results (0 - 1.1).
+Molecular docking results of 11 HDACs subtypes are presented in [Table 2](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/493f931affc95b4ae5214a149fa1d977a6ca4086/Task%204/Molecular%20Docking%20Binding%20Affinities.md), and visualised as a heatmap in Figure 2. This analysis showed that the results were consistent, with a low range of standard deviation across results (0 - 1.1).
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3OFyzS3OoRRDsql2DcKW3Gkiak7jwF8Zph1nPxwcXvGQxWVaBxvW0oqlky7yC84xaL6oXL1hRAQt0iXogbXmbIBxysdCkqSHPZSyW_5Ov8tUVVOTHnKqXfM2KrdwL1S9Ca7HPvdg82bt6a1kyulf0KQeT?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/Heatmap%20for%20Binding%20Affinities%20of%20HDACs%20with%20Selected%20Inhibitors.png)
 
 
 Figure 2: Heatmap for Binding Affinities of HDACs with Selected Inhibitors
 
 5 ligands; Alloaromadendrene, ɑ-Selinene, β-Selinene, ẟ-Elemene, and TMP269 showed the highest binding affinities across the 11 HDAC subtypes. Allomandrendrene in HDAC3, HDAC5, and HDAC9,  ɑ-Selinene in HDAC4, β-Selinene in HDAC6, ẟ-Elemene in HDAC2 and HDAC8, and TMP269 in HDAC1, HDAC7, HDAC10, and HDAC11. Thus, these five ligands have significant inhibiting properties to these respective HDACs.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_jN7ty4XSZr27DVfyxKJxCG2b-mJeap2D4XeGqPF_GwgHgclwIzwWmI0dehIPGwTr4t-pFnwNUJagdE7lCoNuSvJlcvjaCPVJeuSNixHwj5GG6yK7m1Wo29wX_EOWkjzr_ZRUDh5UsHeVL6CnUt5smYBY?key=VnO3vB75pdrrGTifxiAKrg)
-
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/5icn_tmp269.png)
 
 Figure 3: PyMOL visualisation of HDAC1 (5ICN) with TMP269.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXewAJ3N7UoqKlHdP3Hk9EEkPmrZWJ9mbajJw4r8AJCmTqjsN6ykEGrBUwhEyZySLLPD-3X3IMHZYuetV0gnLmI8e-KZX_e0eKrYLye0aRHsIJpPZD7YTV_YbSraVCt8qLa6OeYT89dumoDrGSff5OAUwSBf?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/7zzs_d-elemene.png)
 
 
 Figure 4: PyMOL visualization of HDAC2 (7ZZS) with ẟ-Elemene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcUSIwxZl4jrwNzF30n8gIG9DrmvjlgLyhk_w7XIRVp-wAFzrTjPZpGW_ke3C_0PWhOyLsqX5te1nTB2U3F-kZUW-24RRkUic2l8gqsh0q0ColhFoG1Q_IsYgGp1tBUt9BUz2_yGOjvPBvivmp5tviGZeFu?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/4a69_alloaromadendrene.png)
 
 
 Figure 5: PyMOL visualisation of HDAC3 (4A69) with Alloaromadendrene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4eBT4In57DfwX0i-L76Fjw8jv8gas6Nl4ueKnIwqe8wkwHWsn19QAmGk1V0DxW5GpQQDGUM04i6M6CXW_wtWIygfYwiD77iqlSDEy177eKNt4-CRAr20Q3fRwYNf0xhjBqC23ePA6Q2guQydNTXiwY-g?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/2vqm_a-selinene.png)
 
 
 Figure 6: PyMOL visualisation of HDAC4 (2VQM) with ɑ-Selinene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNDDsrbKXsLtWoRZRwdntcnyeCU2zmsg7aOY4zoQpd95HE8LXl_MwUwcJNL7SOABNx9SC5XLEO2QUypAZhUGgv-4KPNuzViXnqdcjyiI6zwAD3wfmMSk4VpW0IrIrJHRw2cKKt2wcvFrfSCr4ymTjtzR8s?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/5uwi_alloaromadendrene.png)
 
 
 Figure 7: PyMOL visualisation of HDAC5 (5UWI) with Alloaromadendrene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOFhz5xai6FrH73DftbNNJ16BzWNkFSYuw7ppOy5p9D9TlYH4BUhlFNlF3ys0N_pYxbaMAwd7NbNa_zJ0A3g49G9tUu21mSjsUpHidB5fLIsWmJfvi4lie0j5e1tcrWE66DmfMwdL7yxW-o2MQGwt2Amkt?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/5edu_b-selinene.png)
 
 
 Figure 8: PyMOL visualisation of HDAC6 (5EDU) with β-Selinene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOW8Xq7W3aaQq5RqGPq03scXAxXPs1Jrm3t-nrHDu7VaepQzkerXV77fXgljNBXB-FH6Y-8imUUXUTGYGu8eJGOw1gH5Tir8ptxDBy27xj1Mu1ggTtFHXoLEy18nAEnkRZAA8w1S5j3mhfFrG9av8c1cva?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/3znr_tmp269.png)
 
 
 Figure 9: PyMOL visualisation of HDAC7 (3ZNR) with TMP269.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfaCeOsVUiUWh5CGshh861fkRjxaoVfTzVqm8Ko97MBefciIGWbdteR0wzVwO4H-HHFqgR_ve507LGqD0mNVTlsT_8HB_ng_mXYDZElfWzxDkBkeMC5qXgPyeRqR5cU5U17U1YhvMArjZs3w1pMlqYrN9qg?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/2v5x_d-Elemene.png)
 
 
 Figure 10: PyMOL visualisation of HDAC8 (2V5X) with ẟ-Elemene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4lKeJKj7v1Yo1qbB-RL7E2X62kxYysv0ok2cj9OLpshoClykm2DDiciAGTzyqxuedFqEfOMO9zgk8vuOAE7aA0ZsnfjaPKn1J2kjE3uM6w5JTg0CHw3sSE0XJnTGauLQQcpWOyCYNSH7kkUdXodMoNcY?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/hdac9_alloaromadendrene.png)
 
 
 Figure 11: PyMOL visualisation of HDAC9 with Alloaromadendrene.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsOLVXq1w79OrpzU_K31aI1hfKYy6iJ5Y6-DICI3Drvs5V_kVqEOtjBJRZqgwQmYuQmIOYaFWXCNLtAJ2vX-vJOWW7kpdiPcrcs99kNA3bMNKokz4XDK7zPsTOJPjLHjfC6sKvLmrxJAxaaqOSB1gTHRB8?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/hdac10_tmp269.png)
 
 
 Figure 12: PyMOL visualisation of HDAC10 with TMP269.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSGfaQVprDNPYSE-Zajo5EyMn9k-hYQo8W9q4QfiWrd9sneY8yrn1tkwR9WrchFg7H5u3v-dp8ijsXLX7Qv6aS6nDqZNApJbEyMq0wjR_j8ZukxfeLsyviFJ28WvET8TqNpYt1EfxuBlz5UdkjNUJaoh8?key=VnO3vB75pdrrGTifxiAKrg)
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/hdac11_tmp269.png)
 
 
 Figure 13: PyMOL visualisation of HDAC11 with TMP269.
@@ -154,24 +152,23 @@ This study highlights the therapeutic potential of targeting HDACs with HDACi an
 
 ## **REFERENCES** ##
 
-\[Menden MP, Iorio F, Garnett M, McDermott U, Benes CH, Ballester PJ,\
-et al. (2013) Machine Learning Prediction of Cancer Cell Sensitivity to Drugs Based on Genomic and Chemical Properties. PLoS ONE 8(4): e61318.<https://doi.org/10.1371/journal.pone.0061318>
+Menden, M. P., Iorio, F., Garnett, M., McDermott, U., Benes, C. H., Ballester, P. J., & Saez-Rodriguez, J. (2013). Machine Learning Prediction of Cancer Cell Sensitivity to Drugs Based on Genomic and Chemical Properties. _PLoS ONE_. 8(4): e61318.<https://doi.org/10.1371/journal.pone.0061318>
 
-Shanmugam, G., Rakshit, S., & Sarkar, K. (2022). HDAC inhibitors: Targets for tumor therapy, immune modulation and lung diseases. _Translational Oncology_, _16_, 101312. <https://doi.org/10.1016/j.tranon.2021.101312> 
+Shanmugam, G., Rakshit, S., & Sarkar, K. (2022). HDAC inhibitors: Targets for tumor therapy, immune modulation and lung diseases. _Translational Oncology_. 16, 101312. <https://doi.org/10.1016/j.tranon.2021.101312> 
 
-Alseksek, R. K., Ramadan, W. S., & Saleh, E. (2021). The Role of HDACs in the Response of Cancer Cells to Cellular Stress and the Potential for Therapeutic Intervention. _International Journal of Molecular Sciences_, _23_(15), 8141. <https://doi.org/10.3390/ijms23158141> 
+Alseksek, R. K., Ramadan, W. S., & Saleh, E. (2021). The Role of HDACs in the Response of Cancer Cells to Cellular Stress and the Potential for Therapeutic Intervention. _International Journal of Molecular Sciences_. 23(15), 8141. <https://doi.org/10.3390/ijms23158141> 
 
-Sudo, T., Mimori, K., Nishida, N., Kogo, R., Iwaya, T., Tanaka, F., Shibata, K., Fujita, H., Shirouzu, K.. & Mori, M. (2011). Histone deacetylase 1 expression in gastric cancer. Oncology reports, 26(4), 777-782.
+Sudo, T., Mimori, K., Nishida, N., Kogo, R., Iwaya, T., Tanaka, F., Shibata, K., Fujita, H., Shirouzu, K.. & Mori, M. (2011). Histone deacetylase 1 expression in gastric cancer. _Oncology reports_. 26(4), 777-782.
 
-Rettig, I., Koeneke, E., Trippel, F., Mueller, W. C., Burhenne, J., Fabian, J., Schober, A., Fernekorn, U., Von Deimling, A., Deubzer, H. E., Milde, T., Witt, O., & Oehme, I. (2015). Selective inhibition of HDAC8 decreases neuroblastoma growth in vitro and in vivo and enhances retinoic acid-mediated differentiation. _Cell Death & Disease_, _6_(2), e1657. <https://doi.org/10.1038/cddis.2015.24> 
+Rettig, I., Koeneke, E., Trippel, F., Mueller, W. C., Burhenne, J., Fabian, J., Schober, A., Fernekorn, U., Von Deimling, A., Deubzer, H. E., Milde, T., Witt, O., & Oehme, I. (2015). Selective inhibition of HDAC8 decreases neuroblastoma growth in vitro and in vivo and enhances retinoic acid-mediated differentiation. _Cell Death & Disease_. 6(2), e1657. <https://doi.org/10.1038/cddis.2015.24> 
 
-Kim, J., & Bae, C. (2011). Histone deacetylase inhibitors: Molecular mechanisms of action and clinical trials as anti-cancer drugs. _American Journal of Translational Research_, _3_(2), 166-179. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056563/> 
+Kim, J., & Bae, C. (2011). Histone deacetylase inhibitors: Molecular mechanisms of action and clinical trials as anti-cancer drugs. _American Journal of Translational Research_. 3(2), 166-179. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056563/> 
 
-Richon, V. M., Sandhoff, T. W., Rifkind, R. A., & Marks, P. A. (2000). Histone deacetylase inhibitor selectively induces p21<sup>WAF1</sup> expression and gene-associated histone acetylation. _Proceedings of the National Academy of Sciences_, _97_(18), 10014-10019. <https://doi.org/10.1073/pnas.180316197> 
+Richon, V. M., Sandhoff, T. W., Rifkind, R. A., & Marks, P. A. (2000). Histone deacetylase inhibitor selectively induces p21<sup>WAF1</sup> expression and gene-associated histone acetylation. _Proceedings of the National Academy of Sciences_. 97(18), 10014-10019. <https://doi.org/10.1073/pnas.180316197> 
 
-Trott, O., Olson, A. J. (2010). AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization and multithreading. _Journal of Computational Chemistry,_ 31, 455-461.
+Trott, O., Olson, A. J. (2010). AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization and multithreading. _Journal of Computational Chemistry_. 31, 455-461.
 
-Iweala, E. J., Uche, M. E., Dike, E. D., Etumnu, L. R., Dokunmu, T. M., Oluwapelumi, A. E., ... & Ugbogu, E. A. (2023). Curcuma longa (Turmeric): Ethnomedicinal uses, phytochemistry, pharmacological activities and toxicity profiles—A review. _Pharmacological Research-Modern Chinese Medicine_, 6, 100222.
+Iweala, E. J., Uche, M. E., Dike, E. D., Etumnu, L. R., Dokunmu, T. M., Oluwapelumi, A. E., ... & Ugbogu, E. A. (2023). Curcuma longa (Turmeric): Ethnomedicinal uses, phytochemistry, pharmacological activities and toxicity profiles—A review. _Pharmacological Research-Modern Chinese Medicine_. 6, 100222.
 
 
 
