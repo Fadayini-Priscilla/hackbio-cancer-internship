@@ -34,7 +34,7 @@ MAE represents the average absolute difference between predicted and actual valu
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/Actual%20vs%20Predicted%20IC50.png)
 
-Figure 1: Actual IC50 vs Predicted IC50
+**Figure 1: Actual IC50 vs Predicted IC50**
 
 Correlation Coefficient: 0.8547
 
@@ -86,63 +86,63 @@ Molecular docking results of 11 HDACs subtypes are presented in [Table 2](https:
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/Heatmap%20for%20Binding%20Affinities%20of%20HDACs%20with%20Selected%20Inhibitors.png)
 
 
-Figure 2: Heatmap for Binding Affinities of HDACs with Selected Inhibitors
+**Figure 2: Heatmap for Binding Affinities of HDACs with Selected Inhibitors**
 
 5 ligands; Alloaromadendrene, ɑ-Selinene, β-Selinene, ẟ-Elemene, and TMP269 showed the highest binding affinities across the 11 HDAC subtypes. Allomandrendrene in HDAC3, HDAC5, and HDAC9,  ɑ-Selinene in HDAC4, β-Selinene in HDAC6, ẟ-Elemene in HDAC2 and HDAC8, and TMP269 in HDAC1, HDAC7, HDAC10, and HDAC11. Thus, these five ligands have significant inhibiting properties to these respective HDACs.
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/5icn_tmp269.png)
 
-Figure 3: PyMOL visualisation of HDAC1 (5ICN) with TMP269.
+**Figure 3: PyMOL visualisation of HDAC1 (5ICN) with TMP269**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/7zzs_d-elemene.png)
 
 
-Figure 4: PyMOL visualization of HDAC2 (7ZZS) with ẟ-Elemene.
+**Figure 4: PyMOL visualization of HDAC2 (7ZZS) with ẟ-Elemene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/4a69_alloaromadendrene.png)
 
 
-Figure 5: PyMOL visualisation of HDAC3 (4A69) with Alloaromadendrene.
+**Figure 5: PyMOL visualisation of HDAC3 (4A69) with Alloaromadendrene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/2vqm_a-selinene.png)
 
 
-Figure 6: PyMOL visualisation of HDAC4 (2VQM) with ɑ-Selinene.
+**Figure 6: PyMOL visualisation of HDAC4 (2VQM) with ɑ-Selinene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/5uwi_alloaromadendrene.png)
 
 
-Figure 7: PyMOL visualisation of HDAC5 (5UWI) with Alloaromadendrene.
+**Figure 7: PyMOL visualisation of HDAC5 (5UWI) with Alloaromadendrene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/5edu_b-selinene.png)
 
 
-Figure 8: PyMOL visualisation of HDAC6 (5EDU) with β-Selinene.
+**Figure 8: PyMOL visualisation of HDAC6 (5EDU) with β-Selinene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/3znr_tmp269.png)
 
 
-Figure 9: PyMOL visualisation of HDAC7 (3ZNR) with TMP269.
+**Figure 9: PyMOL visualisation of HDAC7 (3ZNR) with TMP269**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/2v5x_d-Elemene.png)
 
 
-Figure 10: PyMOL visualisation of HDAC8 (2V5X) with ẟ-Elemene.
+**Figure 10: PyMOL visualisation of HDAC8 (2V5X) with ẟ-Elemene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/hdac9_alloaromadendrene.png)
 
 
-Figure 11: PyMOL visualisation of HDAC9 with Alloaromadendrene.
+**Figure 11: PyMOL visualisation of HDAC9 with Alloaromadendrene**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/hdac10_tmp269.png)
 
 
-Figure 12: PyMOL visualisation of HDAC10 with TMP269.
+**Figure 12: PyMOL visualisation of HDAC10 with TMP269**
 
 ![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4da79b30729e11a88858e4fa6aaa2d9947a43632/Task%204/IMAGES/hdac11_tmp269.png)
 
 
-Figure 13: PyMOL visualisation of HDAC11 with TMP269.
+**Figure 13: PyMOL visualisation of HDAC11 with TMP269**
 
 TMP269 showed the highest binding affinity with HDAC11 (-7.3 ± 0)  compared to other ligands in this study which suggests it is a potential inhibitor for HDAC11. FT895 showed a good binding affinity of -6.40 ± 0 to HDAC11 which corresponds to the research by Baselious _et al_., indicating that FT895 interacts with HDAC11. 
 
