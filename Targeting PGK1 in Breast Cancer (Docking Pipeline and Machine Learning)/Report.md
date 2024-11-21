@@ -113,6 +113,13 @@ ChEMBL bioactivity data for PGK1 was retrieved, IC50 values were converted to pI
 
 The Random Forest model showed moderate performance and generalization ability, with a Root Mean Squared Error (RMSE) of 0.79, Mean Absolute Error (MAE) of 0.60, and an R-squared value of 0.49. Cross-validation using KFold resulted in MSE scores ranging from 0.62 to 0.69, with an average MSE of 0.65. This model predicted the pIC50 values for 50 docked ligands and Terazosin, aiding in potential bioactive compound identification against the target protein, PGK1. The predicted pIC50’s can be accessed ([here](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/7eb1a6fc6b046683f8ddc9087eb861f18f435c86/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Phytochemicals%20Predicted%20pIC50.md)) for the phytochemicals and ([here](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/d26aa738cad81ff0c83cc0108555c225a8d782b6/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Terazosin%20Predicted%20pIC50.md)) for terazosin. From the predicted p_IC50 results, potential phytochemicals that can inhibit the PGK1 protein are E-beta-Farnesene, Syringic acid, Isorhamnetin, Gallic acid, Sinapic acid.
 
+![](https://github.com/Fadayini-Priscilla/hackbio-cancer-internship/blob/4130c7db94b2652880e8e0177842d463b3817b61/Targeting%20PGK1%20in%20Breast%20Cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results/Actual%20vs%20Predicted%20pIC50.png)
+
+**Figure 12: Actual vs Predicted pIC50**
+
+
+
+
 **Discussion**
 
 The bioactivity of PGK1 is predicted using key molecular descriptors such as Molecular Weight, log P, and Hydrogen Bond Acceptors. A balanced log P ensures effective binding, an adequate MW aids penetration, and hydrogen bond acceptors facilitate interaction with major residues. The Random Forest model's performance is below average, explaining 49% of the variance in pIC50 values. Moderate MSE scores suggest the model's utility in virtual screening but highlight potential limitations due to dataset size and feature complexity.
